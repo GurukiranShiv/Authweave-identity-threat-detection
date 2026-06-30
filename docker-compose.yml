@@ -1,0 +1,9 @@
+services:
+  identityguardx:
+    build: .
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    volumes:
+      - ./outputs:/app/outputs
+      - ./temp_uploads:/app/temp_uploads

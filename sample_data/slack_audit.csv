@@ -1,0 +1,2 @@
+time,account,source_address,geo_location,service_name,action,result
+2026-06-30T17:00:00Z,slack.admin@company.com,11.11.11.11,United States,Slack,workspace_export_started,success

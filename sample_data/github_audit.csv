@@ -1,0 +1,3 @@
+timestamp,actor,source_ip,country,action,service_name,result
+2026-06-30T16:00:00Z,dev.admin@company.com,10.1.1.5,United States,org.add_member_to_team_owner,GitHub,success
+2026-06-30T16:15:00Z,dev.admin@company.com,10.1.1.5,United States,repo.secret_scanning_alert_export,GitHub,success

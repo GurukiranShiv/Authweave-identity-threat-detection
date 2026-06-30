@@ -1,0 +1,2 @@
+activityDateTime,userPrincipalName,operation,forward_to,result,appDisplayName
+2026-06-30T15:00:00Z,casey@company.com,New-InboxRule,casey.personal@gmail.com,success,Exchange Online

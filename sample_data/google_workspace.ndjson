@@ -1,0 +1,2 @@
+{"id":{"time":"2026-06-30T14:00:00Z"},"actor":{"email":"riley@company.com"},"ipAddress":"6.6.6.6","geo":{"country":"United States"},"applicationName":"Google Workspace","event":{"type":"login_success"}}
+{"id":{"time":"2026-06-30T14:15:00Z"},"actor":{"email":"riley@company.com"},"ipAddress":"7.7.7.7","geo":{"country":"France"},"applicationName":"Google Workspace","event":{"type":"login_success"}}

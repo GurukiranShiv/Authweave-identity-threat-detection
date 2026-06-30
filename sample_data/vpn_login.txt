@@ -1,0 +1,2 @@
+time=2026-06-30T18:00:00Z user=vpn.user@company.com src_ip=12.12.12.12 country=United States app=VPN outcome=success mfa=approved device=Windows
+2026-06-30T18:18:00Z,vpn.user@company.com,13.13.13.13,Germany,VPN,success,approved,Mac

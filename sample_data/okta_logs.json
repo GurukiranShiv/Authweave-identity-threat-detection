@@ -1,0 +1,20 @@
+[
+  {
+    "published": "2026-06-30T12:00:00Z",
+    "eventType": "user.authentication.sso",
+    "actor": {"alternateId": "nina@company.com"},
+    "client": {"ipAddress": "3.3.3.3", "geographicalContext": {"country": "United States", "city": "Chicago"}},
+    "target": {"displayName": "Okta Dashboard"},
+    "outcome": {"result": "SUCCESS"},
+    "debugContext": {"debugData": {"factor": "approved"}}
+  },
+  {
+    "published": "2026-06-30T12:35:00Z",
+    "eventType": "user.authentication.sso",
+    "actor": {"alternateId": "nina@company.com"},
+    "client": {"ipAddress": "4.4.4.4", "geographicalContext": {"country": "Singapore", "city": "Singapore"}},
+    "target": {"displayName": "Okta Dashboard"},
+    "outcome": {"result": "SUCCESS"},
+    "debugContext": {"debugData": {"factor": "approved"}}
+  }
+]

@@ -1,0 +1,4 @@
+login_time,account,source_address,geo_location,service_name,auth_status,mfa_status,device_info,inactive_days
+2026-06-30T09:00:00Z,jordan@example.com,8.8.8.8,United States,Salesforce,success,approved,Windows Chrome,0
+2026-06-30T09:20:00Z,jordan@example.com,1.1.1.1,Germany,Salesforce,success,approved,Mac Safari,0
+2026-06-30T11:30:00Z,old.user@example.com,9.9.9.9,Canada,VPN,success,approved,Linux Firefox,140

@@ -1,0 +1,9 @@
+time,userPrincipalName,ipAddress,location.countryOrRegion,appDisplayName,status.errorCode,mfa_status,deviceDetail
+2026-06-30T09:00:00Z,alex@company.com,8.8.8.8,United States,Microsoft 365,0,approved,Windows Chrome
+2026-06-30T09:25:00Z,alex@company.com,1.1.1.1,Germany,Microsoft 365,0,approved,Mac Safari
+2026-06-30T10:00:00Z,maria@company.com,5.5.5.5,India,Azure Portal,failure,denied,Unknown
+2026-06-30T10:02:00Z,maria@company.com,5.5.5.5,India,Azure Portal,failure,denied,Unknown
+2026-06-30T10:04:00Z,maria@company.com,5.5.5.5,India,Azure Portal,failure,prompted,Unknown
+2026-06-30T10:06:00Z,maria@company.com,5.5.5.5,India,Azure Portal,failure,prompted,Unknown
+2026-06-30T10:08:00Z,maria@company.com,5.5.5.5,India,Azure Portal,failure,prompted,Unknown
+2026-06-30T10:10:00Z,maria@company.com,5.5.5.5,India,Azure Portal,0,approved,Unknown

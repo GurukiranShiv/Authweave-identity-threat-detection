@@ -1,0 +1,8 @@
+2026-06-30T09:00:00Z,jordan@example.com,8.8.8.8,United States,Office365,success,approved,Windows Chrome
+2026-06-30T09:20:00Z,jordan@example.com,1.1.1.1,Germany,Office365,success,approved,Mac Safari
+2026-06-30T10:00:00Z,sam@example.com,2.2.2.2,India,Okta,failure,prompted,Unknown Device
+2026-06-30T10:02:00Z,sam@example.com,2.2.2.2,India,Okta,failure,denied,Unknown Device
+2026-06-30T10:04:00Z,sam@example.com,2.2.2.2,India,Okta,failure,prompted,Unknown Device
+2026-06-30T10:06:00Z,sam@example.com,2.2.2.2,India,Okta,failure,prompted,Unknown Device
+2026-06-30T10:08:00Z,sam@example.com,2.2.2.2,India,Okta,failure,prompted,Unknown Device
+2026-06-30T10:11:00Z,sam@example.com,2.2.2.2,India,Okta,success,approved,Unknown Device
